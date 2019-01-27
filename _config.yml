@@ -1,0 +1,58 @@
+# Jekyll
+livereload: true
+
+# Site
+repository: ardabeyazoglu/modern-resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Arda Beyazoğlu
+title: Senior Software Engineer
+email: arda[at]beyazoglu.com
+website: ardabeyazoglu.com
+
+# Social links
+twitter_username: arda_beyazoglu
+github_username: ardabeyazoglu
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: ardabeyazoglu
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+codementor_username: ardabeyazoglu
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. I sometimes code in **c#** and **python** for other stuff, but I find web more exciting and fun. Eating and travelling are also my top skills.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Summary of My Skills
+more_content: | # this will include new lines to allow paragraphs
+  Coming soon...
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# remote_theme: ardabeyazoglu/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

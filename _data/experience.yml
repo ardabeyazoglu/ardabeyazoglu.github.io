@@ -1,0 +1,32 @@
+- company: Self Employed
+  job_title: Software Engineer & Consultant
+  dates: January 2015 - Present
+  quote: >
+    Can't stop learning new things; learning is the best thing
+  description: | # this will include new lines to allow paragraphs
+    I am working from home as a remote software engineer, consultant and sometimes freelancer. When I am not working, I deal with my hobbie projects, try new techs, contribute to open source and improve my coding skills by practicing algorithms.
+
+- company: Kiva Teknoloji Ltd.
+  link: kivacrm.com
+  job_title: Lead Software Developer
+  dates: June 2008 - Present
+  quote: >
+    Solving problems of companies by creating ad-hoc solutions within a smart business intelligence platform
+  description: | # this will include new lines to allow paragraphs
+    I am responsible for the core development of [KivaCRM](https://www.kivacrm.com) cloud based PaaS/SaaS product, its BI/CRM tools and primary mobile apps as well as leading a team of few people.
+
+    I have been developing the primary web app since the beginning with <mark>extjs</mark> frontend, and <mark>php</mark> backend. I developed various services including **websocket** based real-time notification system, automated workflow system, email/sms marketing services, reporting/analytics for BI and so on. I used **php** and <mark>mysql</mark> to improve <mark>BI</mark> experience by creating complex but presentable reports and analytics of transactional, highly relational database. I've experienced lots of tech stacks during development, some of which are **zend** and **phalcon** php frameworks, **gearman** job queues, **nodejs**, **socket.io**, **firebase**, **sphinxsearch** for fulltext search as well as **sql**.
+
+    I structured and constantly optimized mysql databases as the single source of truth for the applications. I experienced <mark>redis</mark> and <mark>memcached</mark> as well, using them especially for caching and session storage.
+
+    I developed multiple side projects/plugins, such as facebook lead integrations, microsoft office addins and 3rd party integrations. During development I have learned lots of 3rd party APIs such as facebook graph api, ms graph api, ms com library for office addins etc.
+
+    I also developed few hybrid mobile apps written in **extjs/sencha-touch** and built natively with **cordova/phonegap**.
+
+- company: Freelancer
+  job_title: Freelance Web Developer
+  dates: June 2005 - June 2008
+  quote: >
+    Stepping into the world of coding as a young student
+  description: | # this will include new lines to allow paragraphs
+    This was the time I started using my fresh coding skills in real-world scenarios. I did some typical freelance projects such as building company websites, adding small features or fixing bugs in legacy projects. During this period, I created my first open source project, *-an ajax library for php-* [PHPLiveX](www.phplivex.com) when concepts like ajax just became popular. I stopped developing it a few years later with the adoption of jquery and similar libraries.
