@@ -42,13 +42,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Summary of My Skills
 more_content: | # this will include new lines to allow paragraphs
-  Coming soon
+  Coming soon...
 
 # Footer
 footer_show_references: false
 
 # Build settings
-remote_theme: ardabeyazoglu/modern-resume-theme
+# remote_theme: ardabeyazoglu/modern-resume-theme
 
 sass:
   sass_dir: _sass
