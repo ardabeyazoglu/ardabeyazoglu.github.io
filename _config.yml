@@ -28,7 +28,7 @@ codementor_username: ardabeyazoglu
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. I sometimes code in **c#** and **python** for other stuff, but I find web more exciting and fun. Eating and travelling are also my top skills.
+  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. I sometimes code in **c#** and **python** for different stuff, but I enjoy web development more in general. Other than those, eating and travelling are also my top skills.
 
 # Projects Section
 # projects_title: Projects
@@ -48,7 +48,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: ardabeyazoglu/modern-resume-theme
+# remote_theme: ardabeyazoglu/modern-resume-theme
 
 sass:
   sass_dir: _sass
