@@ -1,0 +1,42 @@
+- name: PHP
+  score: 9
+  time: 12+ years
+  color: 8e44ad
+  description: | # this will include new lines to allow paragraphs
+    I've been coding in php since v4, I started developing websites, ad portals and have been working in saas projects since then. I still like coding in php and I constantly refresh my knowledge by practising new features and tech stacks.
+
+    I prefer object-oriented, readable and easily maintainable code and avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well tested composer libraries to accomplish my tasks. I first started with zend framework but then preferred phalcon since it was the fastest and relatively simpler framework out there, however I am also interested in laravel lately.
+
+    Lately, I am also playing with swoole extension that runs php in a similar way to nodejs and golang, as I think event-based php might be the future of the language and possibly web.
+- name: JavaScript
+  score: 9
+  time: 12+ years
+  color: e67e22
+  description: | # this will include new lines to allow paragraphs
+    I've been using javascript mostly in client side so far; however, I do have nodejs experience as well, although I am not a nodejs expert. I know the important concepts of the language internals, such as its single threaded architecture, event system etc. I prefer to code using latest ecmascript features and use babel to transpile them.
+
+    I am a fan of client side frameworks such as reactjs, and tools like webpack. I prefer react over the others I haven't listed, because I believe the concepts like state handling, top-down approach, function components with hooks and easy integration with anything else are great improvements over the web. I didn't use it in a production app yet, but I am planing to develop my next apps definitely in reactjs. I am also familiar with framework7; I developed some small scale hybrid mobile apps with it. Lately, I am also interested in vue.js & nativescript to build native mobile apps in javascript; however I am just beginner on this for now.
+
+    I use nodejs for server side components as well; mostly for socket apps, such as instant messaging and real time notification services based on websocket.
+- name: ExtJS
+  description: Modern UI toolkit and javascript framework
+  website: https://sencha.com/products/extjs
+  score: 9
+  time: 11+ years
+  color: 3498db
+  description: | # this will include new lines to allow paragraphs
+    I have been developing single page apps with extjs and sencha touch(for mobile) for a long time already. I created 10s of new components as well as 100s of component overrides to implement new features. I know how to structure an extjs app very well and use it performant. Although I believe it is a bit expensive for small projects, I think it is still the best UI framework for large scale products and enterprise applications. The recently added ability to use it with reactjs and angularjs is also an important plus.
+
+    I am also experienced in using extjs in mobile development or universal applications. I developed few mobile apps using sencha touch with a large codebase. Nowadays, I would prefer using extjs6 modern toolkit for both mobile and desktop applications.
+- name: MySQL
+  score: 8
+  time: 9+ years
+  color: 2ecc71
+  description: | # this will include new lines to allow paragraphs
+    I have been using mysql since 5.1, and now keeping up with 8.0. I didn't choose it for a specific reason at the beginning; however, I did the right choice. Today, it is the most commonly used rdbms, it is open source and actively developed by professionals, or extended by others like Percona and Mariadb. I like its simpler learning curve and the opportunity to find almost anything on the web you would search for.
+
+    I have designed and constantly optimized multi-tenant saas databases, from query optimizations, index decisions to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I know how to structure a database schema in one of the best possible ways for a given scope and design it with intention to make it maintainable in the future as well.
+
+    I usually prefer percona-server build, however i am also interested in using mariadb lately. I am currently following vitess.io for horizontally scalable architectures (sharding) and eager to use it in production in the future. Since I believe that database is the most important part of today's software, I regularly read mysql blogs and updates to stay up-to-date.
+
+    Every RDBMS require a lot of experience and deep knowledge to master, I would give myself 8 out of 10, to set myself aside from database specialists.

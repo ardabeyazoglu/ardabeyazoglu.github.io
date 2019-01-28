@@ -1,0 +1,36 @@
+<div class="container skills-container">
+  <h3>{{ site.skills_title | default: "Skills" }}</h3>
+  {% for skill in site.data.skills ss%}
+    <div class="row clearfix skill">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4>{{ skill.name }}</h4>
+        {%- if skill.since -%}
+          Since {{ skill.since }}
+        {%- endif -%}
+        {%- if skill.score -%}
+          <div class="skill-score">
+            <div style="width:{{ skill.score | times: 10 }}%;background:#{{ skill.color }};"></div>
+            <div>{{ skill.score }}/10</div>
+          </div>
+        {%- endif -%}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {{ skill.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+
+  {%- if site.skills_others -%}
+  {% assign skillSet = site.skills_others | split: " " %}
+  <div class="row clearfix skill other-skills">
+    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+      <h2>Beside my primary skills, some of the techs I've experienced:</h2>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12" style="font-size:14px;">
+    {% for skill in skillSet ss%}
+      <mark>{{ skill }}</mark>
+    {% endfor %}
+    </div>
+  </div>
+  {%- endif -%}
+</div>

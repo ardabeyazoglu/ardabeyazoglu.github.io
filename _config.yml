@@ -23,12 +23,13 @@ linkedin_username: ardabeyazoglu
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 codementor_username: ardabeyazoglu
+stackoverflow_username: 2756657
 
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. I sometimes code in **c#** and **python** for different stuff, but I enjoy web development more in general. Other than those, eating and travelling are also my top skills.
+  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. Sometimes I code in **c#** and **python** for different stuff, but I enjoy web development more in general. Other than those, eating and travelling are also my top skills.
 
 # Projects Section
 # projects_title: Projects
@@ -39,8 +40,17 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Skills Section
+skills_title: Skills
+skills_others: |
+  redis memcached firebase dynamodb sphinxsearch mongodb gearman
+  nodejs C# python
+  socket.io websocket electronjs
+  php-zendframework php-phalcon php-swoole
+  fb-graph-api ms-graph-api ms-office-addins
+
 # More Section
-more_title: Summary of My Skills
+more_title:
 more_content: | # this will include new lines to allow paragraphs
   Coming soon...
 
