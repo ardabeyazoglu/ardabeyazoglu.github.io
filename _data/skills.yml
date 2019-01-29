@@ -31,8 +31,6 @@
   time: 9+ years
   color: 2ecc71
   description: | # this will include new lines to allow paragraphs
-    I have been using mysql since 5.1, and now keeping up with 8.0. I didn't choose it for a specific reason at the beginning; however, I did the right choice. Today, it is the most commonly used rdbms, it is open source and actively developed by professionals, or extended by others like Percona and Mariadb. I like its simpler learning curve and the opportunity to find almost anything on the web you would search for.
-
-    I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I design my databases with intention to make them scalable and maintainable in the future as well.
+    I have been using mysql since 5.1, and now keeping up with 8.0. I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I design my databases with intention to make them scalable and maintainable in the future as well.
 
     Since I believe that database is the most important part of today's software, I regularly read mysql blogs and updates to stay up-to-date. Mastering an RDBMS requires a lot of experience and deep knowledge, so I would give myself 8 out of 10, to set myself aside from database specialists.
