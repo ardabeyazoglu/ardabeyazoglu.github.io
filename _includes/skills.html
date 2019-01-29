@@ -4,13 +4,16 @@
     <div class="row clearfix skill">
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4>{{ skill.name }}</h4>
-        {%- if skill.since -%}
-          Since {{ skill.since }}
+        {%- if skill.link -%}
+          <a href="http://{{ experience.link }}" target="_blank">
         {%- endif -%}
-        {%- if skill.score -%}
-          <div class="skill-score">
+          {%- if skill.score -%}
+        {%- if skill.link -%}
+          </a>
+        {%- endif -%}
+        <span class="skill-time">{{ skill.time }} | {{ skill.score }}/10</span>
+          <div class="skill-progress">
             <div style="width:{{ skill.score | times: 10 }}%;background:#{{ skill.color }};"></div>
-            <div>{{ skill.score }}/10</div>
           </div>
         {%- endif -%}
       </div>

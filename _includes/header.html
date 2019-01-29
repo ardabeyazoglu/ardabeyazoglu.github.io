@@ -1,10 +1,10 @@
 <div class="container header-contianer">
   <div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
+    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-7 header-left">
       <h1>{{ site.name | escape }}</h1>
       <h2>{{ site.title | escape }}</h2>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
+    <div class="col-xs-12 col-sm-7 col-md-7 col-lg-5 header-right">
       <ul class="icons no-print">
         {%- if site.dribbble_username -%}
           <li>
@@ -31,6 +31,13 @@
           <li>
             <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fab fa-github" title="Github link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.gitlab_username -%}
+          <li>
+            <a target="_blank" href="https://gitlab.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-gitlab" title="Gitlab link"></i>
             </a>
           </li>
         {%- endif -%}

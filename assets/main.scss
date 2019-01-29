@@ -158,21 +158,27 @@ ul.icons a {
   }
 }
 
-.skill-score {
-  width: calc(100% - 50px);
+.skill mark {
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.skill-progress {
   display: flex;
   line-height: 12px;
+  margin-bottom: 5px;
+  background: rgba(128,128,128,.15);
+  border-radius: 10px;
 
   div:first-child {
     height: 12px;
     border-radius: 10px;
   }
 
-  div:last-child {
-    font-size: 12px;
-    flex: 1;
-    margin-left: 3px;
-  }
+}
+
+.skill-time, .skill-score {
+  font-size: 12px;
 }
 
 .footer-container {

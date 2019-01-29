@@ -14,6 +14,7 @@ website: ardabeyazoglu.com
 # Social links
 twitter_username: arda_beyazoglu
 github_username: ardabeyazoglu
+gitlab_username: ardabeyazoglu
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -44,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 skills_title: Skills
 skills_others: |
   redis memcached firebase dynamodb sphinxsearch mongodb gearman
-  nodejs C# python
+  nodejs C# python auto-ml
   socket.io websocket electronjs
   php-zendframework php-phalcon php-swoole
   fb-graph-api ms-graph-api ms-office-addins
