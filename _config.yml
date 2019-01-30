@@ -61,7 +61,7 @@ footer_show_references: false
 # Build settings
 # remote_theme: ardabeyazoglu/modern-resume-theme
 
-site.google_analytics: UA-5077009-2
+google_analytics: UA-5077009-2
 
 sass:
   sass_dir: _sass
