@@ -7,6 +7,13 @@
     </div>
     <div class="col-xs-12 col-sm-7 col-md-7 col-lg-4 header-right">
       <ul class="icons no-print">
+        {%- if site.medium_username -%}
+          <li>
+            <a target="_blank" href="https://medium.com/@{{ site.medium_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-medium" title="Medium link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.dribbble_username -%}
           <li>
             <a target="_blank" href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -115,6 +122,11 @@
       {%- if site.website -%}
         <p>
           Web: <a href="http://{{ site.website }}" target="_blank">{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.blog -%}
+        <p>
+          Blog: <a href="http://{{ site.blog }}" target="_blank">{{ site.blog | escape }}</a>
         </p>
       {%- endif -%}
     </div>

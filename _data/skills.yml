@@ -5,27 +5,25 @@
   description: | # this will include new lines to allow paragraphs
     I've been coding in php since v4, I started developing websites, ad portals and have been working in saas projects since then. I still like coding in php and I keep refreshing my knowledge by practising new features and patterns.
 
-    I prefer writing object-oriented, readable, maintainable code and avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well tested composer libraries to accomplish my tasks. I first started with zend framework and then used phalcon in many areas, but lately I am also interested in laravel and zend-expressive. I am also interested in **swoole** extension that runs php in a similar way to nodejs or golang, and I believe event-based php might be the future of the language and possibly web.
+    I prefer writing object-oriented, readable, maintainable code and avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well tested composer libraries to accomplish my tasks. I first started with zend framework and then used phalcon in many areas, but lately I am also interested in laravel and zend-expressive. I am also interested in swoole project that runs php in a similar way to nodejs and golang.
+
 - name: JavaScript
   score: 9
-  time: 12+ years
+  time: 13+ years
   color: e67e22
   description: | # this will include new lines to allow paragraphs
-    I write mostly client-side javascript; however, I like using nodejs as well. I always prefer to code using latest ecmascript features and use babel to transpile them. I am also interested in typescript lately.
+    I have been actively coding in javascript since a very long time ago. I like learning and using newest ecmascript features with babel. 
 
-    I am a fan of client side frameworks and tools like reactjs and webpack. I am enthusiastic about using react more and more, as I believe the concepts like state handling, top-down approach, function components, hooks and easy integration with other libs are great improvements over the web.
+    I am a fan of reactjs and enthusiastic about using react more and more, as I believe the concepts like state handling, top-down approach, function components, hooks and vast community create great opportunities.
 
-    I use nodejs for some microservices and small components, such as messaging services, real time notifications, although I never code entire stack in nodejs.
 - name: ExtJS
-  description: Modern UI toolkit and javascript framework
   website: https://sencha.com/products/extjs
   score: 10
   time: 11+ years
   color: 3498db
   description: | # this will include new lines to allow paragraphs
-    I have been developing single page apps with extjs and sencha touch(for mobile) for a long time. I created dozens of new components as well as 100s of overrides to implement new features. I know how to structure an extjs app very well and use it performant. Although it might be too expensive for small projects, I think it is still the best UI framework for large scale products or enterprise applications.
+    I have been developing single page apps with extjs and sencha touch(for mobile) for a long time. I created dozens of new components as well as 100s of overrides to implement new features. I know how to structure an extjs app very well and make it performant. I also use extjs in mobile development and universal applications.
 
-    I also use extjs in mobile development and universal applications. I've developed few mobile apps using sencha touch with a large codebase. Nowadays, I would prefer using extjs6 modern toolkit for both mobile and desktop applications.
 - name: MySQL
   score: 8
   time: 9+ years
