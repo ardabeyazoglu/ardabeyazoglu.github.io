@@ -12,9 +12,8 @@
   time: 13+ years
   color: e67e22
   description: | # this will include new lines to allow paragraphs
-    I have been actively coding in javascript since a very long time ago. I like learning and using newest ecmascript features with babel. 
-
-    I am a fan of reactjs and enthusiastic about using react more and more, as I believe the concepts like state handling, top-down approach, function components, hooks and vast community create great opportunities.
+    I have been actively using javascript since I started coding. I keep constantly learning latest ecmascript features, and use them whenever possible.
+    Although, I don't prefer spending much time in frontend development, I am carefully following recent improvements in frontend frameworks, such as reactjs, vuejs and svelte lately, which make me enjoy coding frontends.
 
 - name: ExtJS
   website: https://sencha.com/products/extjs
@@ -22,13 +21,11 @@
   time: 11+ years
   color: 3498db
   description: | # this will include new lines to allow paragraphs
-    I have been developing single page apps with extjs and sencha touch(for mobile) for a long time. I created dozens of new components as well as 100s of overrides to implement new features. I know how to structure an extjs app very well and make it performant. I also use extjs in mobile development and universal applications.
+    I have been developing single page apps with extjs for a long time already. I created dozens of new components as well as hundreds of overrides to implement new features or bug fixes. I have used extjs in both mobile and desktop applications.
 
 - name: MySQL
   score: 8
   time: 9+ years
   color: 2ecc71
   description: | # this will include new lines to allow paragraphs
-    I have been using mysql since 5.1, and now keeping up with 8.0. I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I design my databases with intention to make them scalable and maintainable in the future as well.
-
-    Since I believe that database is the most important part of today's software, I regularly read mysql blogs and updates to stay up-to-date. Mastering an RDBMS requires a lot of experience and deep knowledge, so I would give myself 8 out of 10, to set myself aside from database specialists.
+    I have been using mysql since 5.1, and now keeping up with 8.0. I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I design databases with intention to make them scalable and maintainable in the future as well. Although I am not a database specialist nor a dba, I am quite interested in database technologies. I believe that a database is the most important part of today's software, so I regularly read mysql blogs and updates to stay up-to-date. 
