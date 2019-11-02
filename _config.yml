@@ -7,7 +7,7 @@ repository: ardabeyazoglu/modern-resume-theme
 
 # Personal info
 name: Arda Beyazoğlu
-title: Senior Software Engineer
+title: Software Engineer
 #email: arda[at]beyazoglu.com
 website: ardabeyazoglu.com
 blog: medium.com/@ardabeyazoglu
@@ -33,26 +33,30 @@ medium_username: ardabeyazoglu
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a full-stack software developer who loves coding. I've been developing software since 2005, and I am experienced mostly in **web development** using <mark>php</mark>, <mark>mysql</mark> and <mark>javascript</mark>. I also code in **c#** and **python** for side projects.
+  Hi, I'm a full-stack software engineer in Ljubljana. 
+  I started coding in 2003, using old school visual basic and php4 for web. Since then, I've experienced various tech stacks by working in different software, from desktop apps to mostly web apps and taking care of different roles. My favourite stack includes <mark>php</mark>, <mark>mysql</mark> <mark>javascript</mark> on <mark>ubuntu</mark>; however, I also like coding in different languages, and learning recent stacks to stay up-to-date.
+  <br><br>
+  I always try to do my work with engineering principles, plan in advance, split into parts, prioritize, decouple and test. Although there is no limit of learning and the entire stack nowadays is too deep and wide for a single person, I would like to know as many things as possible, and enjoy learning. This is why I read a lot about recent trends and techs, such as devops, containers, serverless, machine learning. One can use any knowledge at any point in his life.
 
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Jobs
 
 # Education Section
 # educaton_title: Education
 
 # Skills Section
-skills_title: Skills
+skills_title: Experience
 skills_others: |
-  mysql redis memcached firebase dynamodb sphinxsearch mongodb gearman
-  nodejs C# python auto-ml 
-  linux ubuntu
-  socket.io websocket electronjs reactjs
-  php-zendframework php-phalcon
-  fb-graph-api ms-graph-api ms-office-addins
+  php javascript nodejs c# 
+  mysql percona redis memcached firebase dynamodb sphinxsearch manticore mongodb gearman 
+  winforms python auto-ml 
+  linux ubuntu redhat supervisor ldap tcp/ip 
+  socket.io websocket electronjs reactjs vuejs extjs framework7
+  zendframework phalconphp oauth2 restapi soap
+  vsto cordova docker
 
 # More Section
 more_title:

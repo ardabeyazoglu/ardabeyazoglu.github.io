@@ -1,31 +1,21 @@
-- name: PHP
+- name: Backend Development
   score: 9
   time: 12+ years
   color: 8e44ad
   description: | # this will include new lines to allow paragraphs
-    I've been coding in php since v4, I started developing websites, ad portals and have been working in saas projects since then. I still like coding in php and I keep refreshing my knowledge by practising new features and patterns.
+    My backend experience is mostly based in php, and I am still actively coding in <mark>php7</mark>. I prefer writing object-oriented, readable, and maintainable code. I often avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well written composer libraries to accomplish my tasks. I used  <mark>zend framework</mark> and <mark>phalcon</mark> for a long time, and also learning laravel and zend-expressive recently. I am quite interested in async php, and thus <mark>swoole</mark> project which brings coroutine functionality to php.
 
-    I prefer writing object-oriented, readable, maintainable code and avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well tested composer libraries to accomplish my tasks. I first started with zend framework and then used phalcon in many areas, but lately I am also interested in laravel and zend-expressive. I am also interested in swoole project that runs php in a similar way to nodejs and golang.
-
-- name: JavaScript
+- name: Frontend Development
   score: 9
   time: 13+ years
   color: e67e22
   description: | # this will include new lines to allow paragraphs
-    I have been actively using javascript since I started coding. I keep constantly learning latest ecmascript features, and use them whenever possible.
-    Although, I don't prefer spending much time in frontend development, I am carefully following recent improvements in frontend frameworks, such as reactjs, vuejs and svelte lately, which make me enjoy coding frontends.
+    I started designing website interfaces a long time ago, using legacy html and javascript, in the <i>bad</i> old days of ie6. I created one of the first old-school php-ajax frameworks called phplivex in 2006, maintained until the trend is obsolete. Then I met evolutionary <mark>extjs</mark> and it became my favourite frontend tool for single-page apps. I've created dozens of new components, web and mobile applications, and I am still a loyal extjs coder. I keep learning latest ecmascript features and cool recent improvements on frontend technologies such as web components. I am also fan of <mark>vuejs</mark> and lately <mark>svelte</mark>.
 
-- name: ExtJS
-  website: https://sencha.com/products/extjs
-  score: 10
-  time: 11+ years
-  color: 3498db
-  description: | # this will include new lines to allow paragraphs
-    I have been developing single page apps with extjs for a long time already. I created dozens of new components as well as hundreds of overrides to implement new features or bug fixes. I have used extjs in both mobile and desktop applications.
-
-- name: MySQL
+- name: Database Design
   score: 8
   time: 9+ years
   color: 2ecc71
   description: | # this will include new lines to allow paragraphs
-    I have been using mysql since 5.1, and now keeping up with 8.0. I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. I design databases with intention to make them scalable and maintainable in the future as well. Although I am not a database specialist nor a dba, I am quite interested in database technologies. I believe that a database is the most important part of today's software, so I regularly read mysql blogs and updates to stay up-to-date. 
+    I have been using <mark>mysql</mark> since 5.1, and now embracing 8.x. I have designed and optimized multi-tenant saas databases, from query/index optimizations to kernel tuning and high availibility. I managed 300+ databases per node in a replicated environment with read-write split, which made me experience lots of database issues and os-level problems as well as their solutions. Although I am not a database specialist nor a dba, I am quite interested in database technologies. I think a database is the most important part of today's software, and I believe every developer should know how it works and how to use it properly, even if there are other people who deal with it. Baside mysql, I also use nosql databases such as mongodb, redis and firebase. As I am interested, I regularly read database blogs and keep up with new trends. 
+
