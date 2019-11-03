@@ -4,18 +4,18 @@
   quote: >
     Moving on as a remote coder
   description: | # this will include new lines to allow paragraphs
-    Currently, I work from home as a remote software engineer, consultant and sometimes freelancer. When I am not working, I deal with my hobbie projects, try new techs, contribute to open source and improve my coding skills by practicing algorithms.
+    Currently, I work from home as a remote software engineer, consultant and sometimes freelancer. When I am not working, I deal with my hobbie projects, arduino, contribute to open source and improve my coding skills by practicing algorithms.
 
 - company: Kiva Teknoloji Ltd.
   link: kivacrm.com
   job_title: Lead Software Developer
   dates: June 2008 - Present
   quote: >
-    Solving problems of companies by creating ad-hoc solutions within a smart business intelligence platform
+    Solving problems of medium to large businesses by creating ad-hoc solutions within a smart business intelligence platform
   description: | # this will include new lines to allow paragraphs
     I have been responsible for the core development of [KivaCRM](https://www.kivacrm.com) cloud based PaaS/SaaS product, its BI/CRM tools and primary mobile apps as well as leading a team of few people.
 
-    I have been developing the primary web app since the beginning with **extjs** frontend, and **php** backend. I developed various services including **websocket** based real-time notification system, automated workflow system, email/sms marketing services, task/event management, reporting/analytics and so on. I created advanced reports & analytics dashboards from transactional, highly relational datasets in mysql to achieve advanced **BI** experience. I've learned lots of tech stacks during development, some of which are **zend** and **phalcon** php frameworks, **gearman** job queues, **nodejs**, **socket.io**, **firebase**, **sphinxsearch** etc.
+    I have been developing the primary web app since the beginning with **extjs** frontend, and **php** backend. I developed various services including **websocket** based real-time notification system, automated workflow system, email/sms marketing services, task/event management, reporting/analytics and so on. I created advanced reports & analytics platform from highly relational datasets in mysql to provide advanced **BI** experience. I've learned lots of tech stacks during development, some of which are **zend** and **phalcon** php frameworks, **gearman** job queues, **nodejs**, **socket.io**, **firebase**, **sphinxsearch** etc.
 
     I developed multiple side projects/plugins, such as facebook lead integrations, microsoft office addins and 3rd party integrations. During development I have learned lots of 3rd party APIs such as facebook graph api, ms graph api, ms com library for office addins etc.
 
@@ -27,4 +27,4 @@
   quote: >
     Stepping into the world of coding as a young student
   description: | # this will include new lines to allow paragraphs
-    This was the time I started using my fresh coding skills in real-world scenarios. I did some typical freelance projects such as building company websites, adding small features or fixing bugs in legacy projects. During this period, I created my first open source project, *-an ajax library for php-* [PHPLiveX](www.phplivex.com) when concepts like ajax just became popular. I stopped developing it a few years later with the adoption of jquery and similar libraries.
+    This was the time I started using my fresh coding skills in real-world scenarios. I did typical freelance projects such as building company websites, ad portals, adding small features or fixing bugs in legacy projects. During this period, I created my first open source project, *-an ajax library for php-* [phplivex](phplivex.sourceforge.net) when concepts like ajax just became popular. I stopped developing it a few years later with the adoption of jquery and similar libraries.

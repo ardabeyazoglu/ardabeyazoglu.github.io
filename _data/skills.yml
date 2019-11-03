@@ -3,7 +3,7 @@
   time: 12+ years
   color: 8e44ad
   description: | # this will include new lines to allow paragraphs
-    My backend experience is mostly based in php, and I am still actively coding in <mark>php7</mark>. I prefer writing object-oriented, readable, and maintainable code. I often avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well written composer libraries to accomplish my tasks. I used  <mark>zend framework</mark> and <mark>phalcon</mark> for a long time, and also learning laravel and zend-expressive recently. I am quite interested in async php, and thus <mark>swoole</mark> project which brings coroutine functionality to php.
+    My backend experience is mostly based on php, and I am still actively coding in <mark>php7</mark>. I enjoy writing object-oriented, readable, and maintainable code. I often avoid reinventing the wheel unless it is really neccesary, so I usually use frameworks in combination with well written composer libraries to accomplish my tasks. I used <mark>zend framework</mark> and <mark>phalcon</mark> for a long time, and learning laravel and zend-expressive recently. I am also quite interested in async php and <mark>swoole</mark> project which brings coroutine functionality to php.
 
 - name: Frontend Development
   score: 9

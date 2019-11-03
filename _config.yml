@@ -14,7 +14,7 @@ blog: blog.ardabeyazoglu.com
 location: Ljubljana / Slovenia
 
 # Social links
-#twitter_username: arda_beyazoglu
+twitter_username: ardabeyazoglu
 github_username: ardabeyazoglu
 gitlab_username: ardabeyazoglu
 # dribbble_username: jekyll
@@ -34,7 +34,7 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a full-stack software engineer in Ljubljana. 
-  I started coding in 2003, using old school visual basic and php4 for web. Since then, I've experienced various tech stacks by working in different software, from desktop apps to mostly web apps and taking care of different roles. My favourite stack includes <mark>php</mark>, <mark>mysql</mark> <mark>javascript</mark> on <mark>ubuntu</mark>; however, I also like coding in different languages, and learning recent stacks to stay up-to-date.
+  I started coding in 2003, using old school visual basic and php4 for web. Since then, I've experienced various techs by working in different types of software, from desktop to mostly web apps and taking care of different roles. My favourite stack includes <mark>php</mark>, <mark>mysql</mark> <mark>javascript</mark> on <mark>ubuntu</mark>; however, I also like coding in different languages, and learning recent stacks to stay up-to-date.
   <br><br>
   I always try to do my work with engineering principles, plan in advance, split into parts, prioritize, decouple and test. Although there is no limit of learning and the entire stack nowadays is too deep and wide for a single person, I would like to know as many things as possible, and enjoy learning. This is why I read a lot about recent trends and techs, such as devops, containers, serverless, machine learning. One can use any knowledge at any point in his life.
 
