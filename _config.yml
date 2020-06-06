@@ -33,10 +33,8 @@ medium_username: ardabeyazoglu
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a full-stack software engineer in Ljubljana. 
-  I started coding in 2003, using old school visual basic and php4 for web. Since then, I've experienced various techs by working in different types of software, from desktop to mostly web apps and taking care of different roles. My favourite stack includes <mark>php</mark>, <mark>mysql</mark> <mark>javascript</mark> on <mark>ubuntu</mark>; however, I also like coding in different languages, and learning recent stacks to stay up-to-date.
-  <br><br>
-  I always try to do my work with engineering principles, plan in advance, split into parts, prioritize, decouple and test. Although there is no limit of learning and the entire stack nowadays is too deep and wide for a single person, I would like to know as many things as possible, and enjoy learning. This is why I read a lot about recent trends and techs, such as devops, containers, serverless, machine learning. One can use any knowledge at any point in his life.
+  Hi, I'm a software engineer in Ljubljana. 
+  I started coding in 2003 using no longer available tools, then switched to php-mysql stack and I've been working in web applications since then. Because I worked on medium-to-large client facing projects in a small team, I took care of different roles throughout my career. Mostly working as core developer and team lead, I have experienced a long list of challenges, problems and their solutions, from system design and devops practices, to structuring databases and core backend development. One can use any knowledge at any point in his life, so I keep learning to improve my skills and stay up-to-date.
 
 # Projects Section
 # projects_title: Projects
@@ -50,13 +48,12 @@ experience_title: Jobs
 # Skills Section
 skills_title: Experience
 skills_others: |
-  php javascript nodejs c# 
-  mysql percona redis memcached firebase dynamodb sphinxsearch manticore mongodb gearman 
-  winforms python auto-ml 
-  linux ubuntu redhat supervisor ldap tcp/ip 
+  php javascript nodejs c# python
+  mysql pxc redis memcached firebase dynamodb sphinxsearch mongodb gearman 
+  linux ubuntu redhat supervisor ldap tcpdump
   socket.io websocket electronjs reactjs vuejs extjs framework7
-  zendframework phalconphp oauth2 restapi soap
-  vsto cordova docker
+  zendframework phalconphp oauth soap
+  vsto cordova docker vagrant gitlab-ci
 
 # More Section
 more_title:
