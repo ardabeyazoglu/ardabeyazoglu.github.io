@@ -650,7 +650,7 @@ ul.cloud {
     justify-content: center;
     line-height: 2.75rem;
     /* must be responsive for mobile */
-    width: 400px; 
+    width: 370px; 
 }
 
 ul.cloud a {
