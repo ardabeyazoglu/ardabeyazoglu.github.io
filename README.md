@@ -1,3 +1,1 @@
 # ardabeyazoglu.github.io
-
-## Usage
